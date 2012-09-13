@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorialProg1", "TutorialProg1\TutorialProg1\TutorialProg1.csproj", "{D04F9102-857E-44FD-8B78-62073F339242}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TutorialProg1Content", "TutorialProg1\TutorialProg1Content\TutorialProg1Content.contentproj", "{E3F6F699-B54B-4CC3-B7B3-8A590A308FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D04F9102-857E-44FD-8B78-62073F339242}.Debug|x86.ActiveCfg = Debug|x86
+		{D04F9102-857E-44FD-8B78-62073F339242}.Debug|x86.Build.0 = Debug|x86
+		{D04F9102-857E-44FD-8B78-62073F339242}.Release|x86.ActiveCfg = Release|x86
+		{D04F9102-857E-44FD-8B78-62073F339242}.Release|x86.Build.0 = Release|x86
+		{E3F6F699-B54B-4CC3-B7B3-8A590A308FCF}.Debug|x86.ActiveCfg = Debug|x86
+		{E3F6F699-B54B-4CC3-B7B3-8A590A308FCF}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
